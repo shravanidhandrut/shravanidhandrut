@@ -106,15 +106,6 @@ I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Ad
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanidhandrut&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanidhandrut&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9" height="165"/>
-</p>
-
----
-
 <p align="center">
   💼 <b>Open to Fresher Roles & Internships in Cloud, DevOps, Linux Admin, or Networking</b><br/>
   📧 <a href="mailto:shravanidhandrut13@gmail.com">shravanidhandrut13@gmail.com</a> &nbsp;|&nbsp;
