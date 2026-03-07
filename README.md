@@ -28,7 +28,7 @@ I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Ad
 - 🌩️ Completed AWS, RHCSA & CCNA training with hands-on experience
 - 🖥️ Comfortable in both Windows and Linux environments
 - 🔧 Strong foundation in networking fundamentals (OSI, VLANs, OSPF, VPN)
-- 📍 Based in Thane, India | Available immediately
+- ✅ Available immediately
 
 ---
 
