@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Cloud & Infrastructure Enthusiast | AWS | Linux/RHEL | CCNA | MSc Computer Science</b><br/>
-  <i>Thane, India — Open to Fresher Roles & Internships</i>
+  <i>Open to Fresher Roles & Internships</i>
 </p>
 
 <p align="center">
@@ -25,10 +25,10 @@ I'm a **MSc Computer Science** student at the University of Mumbai with hands-on
 
 I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Administration, or Network Engineering where I can contribute and grow.
 
-- 🌩️ Certified AWS & RHCSA trainee with real project experience
+- 🌩️ Completed AWS, RHCSA & CCNA Training with hands-on experience
 - 🖥️ Comfortable in both Windows and Linux environments
 - 🔧 Strong foundation in networking fundamentals (OSI, VLANs, OSPF, VPN)
-- 📍 Based in Thane, India | Available immediately
+- ✅ Available immediately
 
 ---
 
