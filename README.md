@@ -75,17 +75,17 @@ I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Ad
 
 ---
 
-### 🖱️ [AI Virtual Mouse — Computer Vision](https://github.com/shravanidhandrut/Ai-Virtual-Mouse-Computer-Vision-Project)
-> Built a gesture-controlled virtual mouse using webcam input and real-time hand tracking, enabling hands-free cursor control without traditional input devices.
-
-**Tech used:** Python · OpenCV · MediaPipe · AutoPy · Pynput · NumPy
-
----
-
 ### 🐚 [Automated User & Permission Management on RHEL 9](https://github.com/shravanidhandrut/User-Management-RHEL)
 > Automated Linux user and group management using Bash scripting on RHEL 9, covering user creation, permission assignment, ACLs, and access control best practices.
 
 **Tech used:** Bash · RHEL 9 · Linux ACLs · Shell Scripting
+
+---
+
+### 🖱️ [AI Virtual Mouse — Computer Vision](https://github.com/shravanidhandrut/Ai-Virtual-Mouse-Computer-Vision-Project)
+> Built a gesture-controlled virtual mouse using webcam input and real-time hand tracking, enabling hands-free cursor control without traditional input devices.
+
+**Tech used:** Python · OpenCV · MediaPipe · AutoPy · Pynput · NumPy
 
 ---
 
