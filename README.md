@@ -28,40 +28,25 @@ I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Ad
 - 🌩️ Completed AWS, RHCSA & CCNA training with hands-on experience
 - 🖥️ Comfortable in both Windows and Linux environments
 - 🔧 Strong foundation in networking fundamentals (OSI, VLANs, OSPF, VPN)
-- ✅ Available immediately
+- 📍 Based in Thane, India | Available immediately
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### ☁️ Cloud — AWS
-
-<p>
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-E7157B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/EBS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/ALB-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-</p>
-
-**AWS Service Icons:**
-
-| | Service | | Service | | Service | | Service |
-|:-:|:-|:-:|:-|:-:|:-|:-:|:-|
-| <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/Compute/EC2.png" width="45"/> | **EC2** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/Storage/SimpleStorageService.png" width="45"/> | **S3** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/Database/RDS.png" width="45"/> | **RDS** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/Compute/Lambda.png" width="45"/> | **Lambda** |
-| <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/NetworkingContentDelivery/VirtualPrivateCloud.png" width="45"/> | **VPC** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/NetworkingContentDelivery/CloudFront.png" width="45"/> | **CloudFront** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/NetworkingContentDelivery/Route53.png" width="45"/> | **Route 53** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/ManagementGovernance/CloudWatch.png" width="45"/> | **CloudWatch** |
-| <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/ManagementGovernance/CloudFormation.png" width="45"/> | **CloudFormation** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/ApplicationIntegration/SimpleNotificationService.png" width="45"/> | **SNS** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/SecurityIdentityCompliance/IAMIdentityCenter.png" width="45"/> | **IAM** | <img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/NetworkingContentDelivery/ElasticLoadBalancing.png" width="45"/> | **ALB** |
-
----
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=flat-square&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/ALB-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
 ### 🐧 Linux Administration — RHEL
 `User & Group Management` · `LVM` · `ACLs` · `SELinux` · `FirewallD` · `SSH`
@@ -86,11 +71,7 @@ I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Ad
 ### ☁️ [AWS Static Web Application Hosting](https://github.com/shravanidhandrut/Static_Web_Application_Hosting)
 > Deployed a static web application using **Amazon S3** for storage and hosting, with **Amazon CloudFront** configured for global content delivery, reduced latency, and HTTPS security.
 
-**Services used:** &nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/Storage/SimpleStorageService.png" width="28"/> S3 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/NetworkingContentDelivery/CloudFront.png" width="28"/> CloudFront &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/NetworkingContentDelivery/Route53.png" width="28"/> Route 53 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v19.0/dist/SecurityIdentityCompliance/IAMIdentityCenter.png" width="28"/> IAM
+**Services used:** S3 · CloudFront · Route 53 · IAM
 
 ---
 
@@ -128,13 +109,8 @@ I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Ad
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shravanidhandrut&theme=dark&hide_border=true&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanidhandrut&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanidhandrut&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shravanidhandrut&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanidhandrut&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=c9d1d9" height="165"/>
 </p>
 
 ---
