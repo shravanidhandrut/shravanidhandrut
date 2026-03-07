@@ -107,7 +107,7 @@ I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Ad
 ---
 
 <p align="center">
-  💼 <b>Open to Fresher Roles & Internships in Cloud, DevOps, Linux Admin, or Networking</b><br/>
+  💼 <b>Open to Fresher Roles & Internships in Cloud, Linux Admin, or Networking</b><br/>
   📧 <a href="mailto:shravanidhandrut13@gmail.com">shravanidhandrut13@gmail.com</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/shravanidhandrut/">LinkedIn</a>
 </p>
