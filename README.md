@@ -23,7 +23,7 @@
 
 I'm a **MSc Computer Science** student at the University of Mumbai with hands-on training in **AWS**, **Red Hat Linux (RHCSA)**, and **Networking (CCNA)**. I enjoy building and automating infrastructure — from deploying cloud applications to managing Linux environments and designing networks.
 
-I'm actively seeking **fresher roles or internships** in Cloud, DevOps, Linux Administration, or Network Engineering where I can contribute and grow.
+I'm actively seeking **entry-level roles or internships** in Cloud, DevOps, Linux Administration, or Network Engineering where I can contribute and grow.
 
 - 🌩️ Completed AWS, RHCSA & CCNA training with hands-on experience
 - 🖥️ Comfortable in both Windows and Linux environments
