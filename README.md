@@ -48,7 +48,7 @@ I'm actively seeking **entry-level roles or internships** in Cloud, DevOps, Linu
 ![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![ALB](https://img.shields.io/badge/ALB-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
-### 🐧 Linux Administration — RHEL
+### 🐧 Linux Administration — RHCSA
 `User & Group Management` · `LVM` · `ACLs` · `SELinux` · `FirewallD` · `SSH`
 `Process Management` · `Systemctl` · `DHCP/DNS` · `Cron Jobs` · `Bash Scripting` · `System Logs`
 
