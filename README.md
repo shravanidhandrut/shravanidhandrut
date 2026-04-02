@@ -68,28 +68,28 @@ I'm actively seeking **entry-level roles or internships** in Cloud, DevOps, Linu
 
 ## 🚀 Featured Projects
 
-### 🖱️ [LAMP Stack Deployment](https://github.com/shravanidhandrut/LAMP-Server-RHEL)
+### ☁️ [LAMP Stack Deployment](https://github.com/shravanidhandrut/LAMP-Server-RHEL)
 > This project demonstrates the end-to-end deployment of a full LAMP stack (Linux, Apache, MariaDB, PHP) on AWS EC2 running Red Hat Enterprise Linux (RHEL 10). The stack powers a fully functional Student Records Management System — a CRUD web application that allows adding, viewing, and deleting student records through a browser interface, backed by a MariaDB database in a secure cloud environment.
 
 **Tech used:** AWS EC2 · Linux(RHEL) · Apache(httpd) · MariaDB (MySQL compatible) · php 
 
 ---
 
-### 🖱️ [A Serverless Web Application on AWS](https://github.com/shravanidhandrut/ServerlessWebApplication--AWS)
+### ☁️ [A Serverless Web Application on AWS](https://github.com/shravanidhandrut/ServerlessWebApplication--AWS)
 > A fully serverless web application deployed on AWS. Features a static website hosted on S3 + CloudFront with a live visitor counter powered by Lambda and DynamoDB — all served over HTTPS on a custom domain.
 
 **Tech used:** S3 · CloudFront · Route53 · AWS Lambda · DynamoDB · IAM
 
 ---
 
-### 🐚 [Automated User & Permission Management on RHEL](https://github.com/shravanidhandrut/User-Management-RHEL)
+### 🖱️ [Automated User & Permission Management on RHEL](https://github.com/shravanidhandrut/User-Management-RHEL)
 > Automated Linux user and group management using Bash scripting on RHEL 9, covering user creation, permission assignment, ACLs, and access control best practices.
 
 **Tech used:** Bash · RHEL 9 · Linux ACLs · Shell Scripting
 
 ---
 
-### 🖱️ [Enterprise Banking Network](https://github.com/shravanidhandrut/Enterprise-Banking-Network)
+### 🌐 [Enterprise Banking Network](https://github.com/shravanidhandrut/Enterprise-Banking-Network)
 > Designed and implemented an enterprise banking network simulated in Cisco Packet Tracer, designed for a single building with 4 floors, each representing a department (HR, Accounts, Marketing, etc.). The project covers end-to-end network design — from physical topology and IP addressing to routing, security, and wireless access.
 
 **Tech used:** S3 · CloudFront · Route53 · AWS Lambda · DynamoDB · IAM
