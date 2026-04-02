@@ -92,17 +92,9 @@ I'm actively seeking **entry-level roles or internships** in Cloud, DevOps, Linu
 ### 🌐 [Enterprise Banking Network](https://github.com/shravanidhandrut/Enterprise-Banking-Network)
 > Designed and implemented an enterprise banking network simulated in Cisco Packet Tracer, designed for a single building with 4 floors, each representing a department (HR, Accounts, Marketing, etc.). The project covers end-to-end network design — from physical topology and IP addressing to routing, security, and wireless access.
 
-**Tech used:** S3 · CloudFront · Route53 · AWS Lambda · DynamoDB · IAM
+**Tech used:** VLAN · OSPF · IP addressing & subnetting · Inter-VLAN Routing · DHCP · SSH . Cisco Packet Tracer
 
 ---
-
-### ☁️ [AWS Static Web Application Hosting](https://github.com/shravanidhandrut/Static_Web_Application_Hosting)
-> Deployed a static web application using **Amazon S3** for storage and hosting, with **Amazon CloudFront** configured for global content delivery, reduced latency, and HTTPS security.
-
-**Services used:** S3 · CloudFront · Route 53 · IAM
-
----
-
 
 ## 📜 Courses & Certifications
 
